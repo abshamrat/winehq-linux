@@ -64,7 +64,7 @@ $ make install
 ```
 Or run Wine directly from the build directory:
 ```sh
-$ ./wine notepad
+$ ./wine64
 ```
 
 
